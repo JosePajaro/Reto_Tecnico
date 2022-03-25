@@ -1,6 +1,9 @@
 # Reto_Tecnico
 Juego de preguntas
 
+Ejecutar:
+- Clonar la carpeta completa y abrir con el navegador el archivo index.html
+
 Estructura:
 - En la carpeta data se encuentran los archivos model_data y pregunta_data.
     -- En preguntas_data se encuentran los objetos por distintos niveles  
